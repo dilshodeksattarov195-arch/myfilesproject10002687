@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsuonnect",
+        "uuid": 5930209,
+        "checksum": "zav8vi"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
